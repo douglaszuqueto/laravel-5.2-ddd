@@ -63,6 +63,6 @@
         ]
     },
     "config": {
-        "preferred-install": "dist"
+        "preferred-install": "source"
     }
 }
