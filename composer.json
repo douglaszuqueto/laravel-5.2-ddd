@@ -7,6 +7,18 @@
         "email": "douglas.zuqueto@gmail.com"
     }
     ],
+    "repositories": [{
+    "type": "package",
+    "package": {
+        "name": "douglaszuqueto/laravel-ddd",
+        "version": "0.1.0",
+        "source": {
+                "url": "git@github.com:douglaszuqueto/laravel-ddd.git",
+                "type": "git",
+        "reference": "0.1.0"
+        }
+        }
+    }],
     "keywords": ["laravel","ddd"],
     "license": "MIT",
     "type": "project",
