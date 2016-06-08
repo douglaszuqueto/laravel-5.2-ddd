@@ -64,14 +64,14 @@
   App\Core\CProviders\RouteServiceProvider::class,
   ```
 * 7º Voltando a pasta app, vamos primeiramente criar um Dominio Base. para isso, crie a estrutura a seguir;
-  * Domains
-      * User
+    * Domains
+       * User
           * Entities
 
 
  * 8º Crie uma Entidade chamada **User**, e não esqueça que o namespace deve seguir no seguinte formato: **App\Domains\User\Entities**, assim respeitando a hierarquia montada;
  * 9º Agora vamos criar uma Application, para isso, permanecendo dentro da pasta **app**, monte a seguinte estutura;
-  * Applications
+    * Applications
       * User
           * Http
               * Controllers
