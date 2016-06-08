@@ -157,10 +157,9 @@ return [
         App\Core\Providers\RouteServiceProvider::class,
 
         /**
-         * Other Providers
+         * User Provider
          */
-        Barryvdh\Debugbar\ServiceProvider::class,
-        Prettus\Repository\Providers\RepositoryServiceProvider::class,
+        App\Applications\User\Providers\UserServiceProvider::class,
 
     ],
 
