@@ -1,5 +1,5 @@
 {
-    "name": "douglaszuqueto/laravel-ddd",
+    "name": "douglaszuqueto/laravel-5.2-ddd",
     "description": "Laravel DDD.",
     "authors": [
     {
@@ -10,10 +10,10 @@
     "repositories": [{
     "type": "package",
     "package": {
-        "name": "douglaszuqueto/laravel-ddd",
+        "name": "douglaszuqueto/laravel-5.2-ddd",
         "version": "0.1.0",
         "source": {
-                "url": "git@github.com:douglaszuqueto/laravel-ddd.git",
+                "url": "git@github.com:douglaszuqueto/laravel-5.2-ddd.git",
                 "type": "git",
         "reference": "0.1.0"
         }
